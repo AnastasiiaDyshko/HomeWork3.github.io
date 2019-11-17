@@ -1,0 +1,32 @@
+.header {
+    background-color:#AD092C;
+}
+.titletext {
+    text-align: center;
+    color: #ffffff;
+}
+.img1 {
+    width: 100%;
+    margin-bottom: 25px;
+}
+.lorem {
+    font-size: 18px
+}
+.blue{
+color: #5900FC;
+}
+.img2{
+    text-align: center;
+}
+.car{
+    border: black 2px dashed;
+}
+.footer{
+    background-color: black;
+    margin-top: 35px;
+}
+.text{
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+}
